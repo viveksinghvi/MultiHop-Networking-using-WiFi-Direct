@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\downloads\p2pwifidirect-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="750038cbd96e77d91194bd7d93b7a8dc4d5b08f7">
+        <dex dex="E:\downloads\p2pwifidirect-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_67b29387aac3ebb5fe034c47cd80f2fa72373438\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivek\Desktop\p2pwifidirect-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75e4400615f434253e538f4b79a76d8d95c3ab7b">
+        <dex dex="C:\Users\Vivek\Desktop\p2pwifidirect-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_08e3804a3a8fcef0eea5833d97871fc6835ef993\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\downloads\p2pwifidirect-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="656e8d0a35dd1c094ea6107e257109feeef6ac6f">
+        <dex dex="E:\downloads\p2pwifidirect-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bae7b1c9e463dbce3b94bb3ac16f109de8ebadf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vivek\Desktop\p2pwifidirect-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3866adf7569fc3c80c97c3ce13e7cae9dad97d22">
+        <dex dex="C:\Users\Vivek\Desktop\p2pwifidirect-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6b72662c7f6c9a265b669b1bb3c5c2d264d79295\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,349 @@
+[
+    {
+        "outputFile": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 55,
+                        "endOffset": 434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 50,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 50,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 40,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 40,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 62,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 587,
+                        "endColumn": 62,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 54,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 439,
+                        "endColumn": 54,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 50,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 50,
+                        "endOffset": 582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 372,
+                    "endColumn": 56,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 56,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 64,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 64,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 57,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 999,
+                        "endColumn": 54,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 552,
+                    "endColumn": 69,
+                    "endOffset": 617
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 69,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 622,
+                    "endColumn": 52,
+                    "endOffset": 670
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 949,
+                        "endColumn": 49,
+                        "endOffset": 997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 675,
+                    "endColumn": 61,
+                    "endOffset": 732
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 890,
+                        "endColumn": 58,
+                        "endOffset": 947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 737,
+                    "endColumn": 54,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 54,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endColumn": 67,
+                    "endOffset": 855
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 768,
+                        "endColumn": 64,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 860,
+                    "endColumn": 56,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 56,
+                        "endOffset": 888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 41,
+                    "endOffset": 954
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 41,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 959,
+                    "endColumn": 52,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 52,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 55,
+                    "endOffset": 1063
+                },
+                "from": {
+                    "file": "C:\\Users\\Vivek\\Desktop\\p2pwifidirect-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 55,
+                        "endOffset": 701
+                    }
+                }
+            }
+        ]
+    }
+]
